@@ -5,7 +5,7 @@ The project aims to provide a comprehensive overview of the Apple Vision Pro, a 
 This overview includes an analysis of the public's initial reaction to the product, focusing on sentiment analysis from Twitter. 
 
 ## Data Source
-I scraped tweets from twitter! 
+I scraped tweets from twitter (X)
 
 ## Keypoints
 
